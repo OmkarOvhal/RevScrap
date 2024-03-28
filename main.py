@@ -33,7 +33,7 @@ utils.init()
 st.title('Rev⭐Scrap : Reviews Scraper')
 
 st.caption('Scrapes [Google](https://www.google.com/) for reviews of a product and perform analysis.')
-st.caption('Github Repository [link](https://github.com/)')
+st.caption('Github Repository [link](https://github.com/OmkarOvhal/RevScrap)')
 st.caption('Powered by [HuggingFace](https://huggingface.co/), [Streamlit](https://streamlit.io/) and [Apify](https://apify.com/)')
 
 st.markdown("""
