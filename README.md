@@ -1,7 +1,7 @@
 # Rev⭐Scrap - Reviews Scraper Tool
 Website that scrapes Google for reviews of an item (product, movie, etc.) and runs sentiment analysis on the results.
 
-Check out [live]()!
+Check out [live](https://revscrap.streamlit.app/)!
 
 Note: For best results ensure to enter specific product name and not generic.
 
